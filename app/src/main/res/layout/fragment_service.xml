@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/uniform_padding"
+    tools:context=".fragments.ServiceFragment">
+
+    <TextView
+        android:id="@+id/tv_service_companyname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:textColor="@color/dark_gray"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:text="Select the services you offer (at least one)"
+        android:textColor="@color/dark_gray"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <CheckBox
+        android:id="@+id/chk_planning"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:checked="true"
+        android:text="Architecture and Planning"
+        android:textColor="@color/dark_gray" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="This involves developing architecture plans/designs of a building"
+        android:textColor="@color/dark_gray"
+        android:textSize="14dp" />
+
+    <CheckBox
+        android:id="@+id/chk_construction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text="Construction Management"
+        android:textColor="@color/dark_gray" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="This involves managing a construction site"
+        android:textColor="@color/dark_gray"
+        android:textSize="14dp" />
+
+    <CheckBox
+        android:id="@+id/chk_fabrication"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:text="Fabrication and design"
+        android:textColor="@color/dark_gray" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginBottom="40dp"
+        android:text="This involves welding, interior and exterior designs"
+        android:textColor="@color/dark_gray"
+        android:textSize="14dp" />
+
+    <Button
+        android:id="@+id/btn_service"
+        android:layout_width="120dp"
+        android:layout_height="45dp"
+        android:layout_gravity="center"
+        android:text="Next"
+        android:textAllCaps="false"
+        android:textColor="@color/white" />
+
+</LinearLayout>
