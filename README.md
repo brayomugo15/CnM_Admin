@@ -31,4 +31,4 @@ Check more details for [CnM Customer App](https://github.com/brayomugo15/CnM)
 
 
 ## Contributed by
-- [Brian Mugo](https://github.com/brayomugo15
+- [Brian Mugo](https://github.com/brayomugo15)
