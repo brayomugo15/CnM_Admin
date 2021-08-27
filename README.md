@@ -49,6 +49,16 @@ Login                 |           Create Account
 
 <img src="https://user-images.githubusercontent.com/39495725/130968957-f6a178dd-6cc9-476a-af9f-21982507eb7d.jpg" width="250" height="450"> 
 
+#### Home
+
+<img src="https://user-images.githubusercontent.com/39495725/131084445-92ab0298-9522-4903-b34d-851303a3a4c6.jpg" width="250" height="450"> |
+<img src="https://user-images.githubusercontent.com/39495725/131084456-c3bcf8ef-83a4-4c77-8c01-ea8a23a6041f.jpg" width="250" height="450"> 
+
+
+#### View Contract
+
+<img src="https://user-images.githubusercontent.com/39495725/131084451-68d549c4-9cbd-42b6-a953-9762bcfda3b7.jpg" width="250" height="450"> |
+<img src="https://user-images.githubusercontent.com/39495725/131084454-e8961b9a-adfe-4400-b650-20126cc8bf89.jpg" width="250" height="450"> 
 
 ## Contributed by
 - [Brian Mugo](https://github.com/brayomugo15)
