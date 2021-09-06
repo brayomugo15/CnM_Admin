@@ -7,25 +7,21 @@ Check more details for [CnM Customer App](https://github.com/brayomugo15/CnM)
 
 
 ## Table of Contents
-- [Getting Started](#Getting)
-- [Related Topics](#Related)
+- [Prerequisite](#Prerequisite)
+- [Related Resources](#Related)
 
-### Getting Started
+## Prerequisite
 
 - [Setting Up](#Setting)
-- [Permissions](#Permissions)
 - [Libraries](#Libraries)
 
-#### Setting Up
+### Setting Up
 
 
-#### Permissions
+### Libraries
 
 
-#### Libraries
-
-
-### Related Topics
+## Related Resources
 
 #### Account creation
 
