@@ -9,6 +9,7 @@ Check more details for [CnM Customer App](https://github.com/brayomugo15/CnM)
 ## Table of Contents
 - [Prerequisite](#Prerequisite)
 - [Related Resources](#Related)
+- [Contributors](#Contributors)
 
 ## Prerequisite
 
@@ -57,5 +58,5 @@ Login                 |           Create Account
 <img src="https://user-images.githubusercontent.com/39495725/131084451-68d549c4-9cbd-42b6-a953-9762bcfda3b7.jpg" width="250" height="450"> |
 <img src="https://user-images.githubusercontent.com/39495725/131084454-e8961b9a-adfe-4400-b650-20126cc8bf89.jpg" width="250" height="450"> 
 
-## Contributed by
+## Contributors
 - [Brian Mugo](https://github.com/brayomugo15)
