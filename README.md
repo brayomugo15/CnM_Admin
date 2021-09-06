@@ -23,6 +23,7 @@ Check more details for [CnM Customer App](https://github.com/brayomugo15/CnM)
 
 ## Related Resources
 
+### Screenshots
 #### Account creation
 
 Login                 |           Create Account
